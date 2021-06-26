@@ -22,7 +22,7 @@ PS4 prx library with some useful additions
   - IME
     - Keyboard
     - Dialog
-- Ini
+- INI
   - Create/Read INI files
 - Strings
   -  va
