@@ -15,7 +15,7 @@ PS4 prx library with some useful additions
 - System
   - File Systems
     - Write/Read File
-    - Make Difectory
+    - Make Directory
     - Check if file/directory Exist
   - Notification
     - Notication with Custom icon (Provided from https://github.com/OSM-Made/PS4-Notify)
